@@ -1,60 +1,70 @@
-# Hi 👋 I'm Riznish Tahir
+# Hi, I’m Riznish Tahir
 
-📍 Karachi, Pakistan  
-💻 AI & Tech Student | Aspiring Full-Stack Developer  
+**AI & Tech Student · Aspiring Full-Stack Developer**  
+Karachi, Pakistan  
 📧 riznishtahir997@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/riznish-tahir-5a578a352) | [Instagram](https://www.instagram.com/iamcodegroot)
+[LinkedIn](https://www.linkedin.com/in/riznish-tahir-5a578a352) · [Instagram](https://www.instagram.com/iamcodegroot)
 
----
+> Building clean, functional, and user-focused digital experiences.
 
-## 🧠 About Me
-Passionate about **AI, web development, and problem-solving**.  
-I enjoy turning ideas into **clean, functional, and user-friendly websites**.  
-Currently focused on learning by **building real projects and sharing knowledge** with other students.
+## About
 
----
+I’m passionate about **AI, web development, and problem-solving**.  
+I enjoy turning ideas into **simple, usable, and scalable products**.
 
-## 🛠 Skills
+Currently learning by **building real projects**, experimenting with new tools,  
+and sharing what I learn with other students.
 
-### 🎨 Frontend
-- HTML, CSS, Tailwind CSS  
-- JavaScript  
-- GSAP (basic animations)
+## Tech Stack
 
-### ⚙️ Backend
-- PHP (Basics)
+**Frontend**
+- HTML, CSS, Tailwind CSS
+- JavaScript
+- GSAP (basic)
 
-### 🧠 AI & Tools
-- AI tools & workflows  
-- Git & GitHub  
-- VS Code, Figma  
+**Backend**
+- PHP (foundations)
 
----
+**Tools**
+- Git & GitHub
+- AI tools & workflows
+- VS Code, Figma
 
-## 🚀 Projects
-- 🔹 **AI Study Helper** – Helps students learn more efficiently  
-- 🔹 **Donation Platform** – Awareness-driven platform for social impact  
-- 🔹 **Portfolio Website** – Built with HTML, CSS & JavaScript  
+## Projects
 
-👉 *More projects coming soon…*
+**AI Study Helper**  
+A productivity-focused tool designed to help students learn more efficiently.
 
----
+**Donation Platform**  
+An awareness-driven platform built to support social impact initiatives.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riznish-Tahir&show_icons=true&theme=dark)
+**Portfolio Website**  
+A personal website built using HTML, CSS, and JavaScript.
 
----
+_More projects in progress._
 
-## 🔗 Connect with Me
-- 📧 Email: riznishtahir997@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/riznish-tahir-5a578a352)  
-- 📸 [Instagram](https://www.instagram.com/iamcodegroot)  
-- 📘 [Facebook](https://www.facebook.com/share/1CmsT7Kjxd/)  
-- 🧩 [LeetCode](https://leetcode.com/u/riznish/)  
-- 🧪 [ORCID](https://orcid.org/0009-0002-7412-8499)
+## Connect
+
+- Email: riznishtahir997@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/riznish-tahir-5a578a352  
+- Instagram: https://www.instagram.com/iamcodegroot  
+- Facebook: https://www.facebook.com/share/1CmsT7Kjxd/  
+- LeetCode: https://leetcode.com/u/riznish/  
+- ORCID: https://orcid.org/0009-0002-7412-8499
 
 
-![My Design](assets/my-design.gif)
-*Design by Riznish Tahir*
 
-[View Full Design](https://www.canva.com/design/DAHA5qYy63E/ANSJIq6aoXK80VeK-Dx5GQ/view?utm_content=DAHA5qYy63E&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+<br>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Riznish-Tahir/Riznish-Tahir/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Riznish-Tahir/Riznish-Tahir/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/Riznish-Tahir/Riznish-Tahir/output/pacman-contribution-graph.svg">
+</picture>
+
+
