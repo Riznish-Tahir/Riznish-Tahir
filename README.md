@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Riznish Tahir
 
-<!--
-**Riznish-Tahir/Riznish-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Karachi, Pakistan  
+💻 AI & Tech Student | Aspiring Full-Stack Developer  
+📧 riznishtahir997@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/riznish-tahir-5a578a352) | [Instagram](https://www.instagram.com/iamcodegroot)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+Passionate about **AI, web development, and problem-solving**.  
+I enjoy turning ideas into **clean, functional, and user-friendly websites**.  
+Currently focused on learning by **building real projects and sharing knowledge** with other students.
+
+---
+
+## 🛠 Skills
+
+### 🎨 Frontend
+- HTML, CSS, Tailwind CSS  
+- JavaScript  
+- GSAP (basic animations)
+
+### ⚙️ Backend
+- PHP (Basics)
+
+### 🧠 AI & Tools
+- AI tools & workflows  
+- Git & GitHub  
+- VS Code, Figma  
+
+---
+
+## 🚀 Projects
+- 🔹 **AI Study Helper** – Helps students learn more efficiently  
+- 🔹 **Donation Platform** – Awareness-driven platform for social impact  
+- 🔹 **Portfolio Website** – Built with HTML, CSS & JavaScript  
+
+👉 *More projects coming soon…*
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riznish-Tahir&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Connect with Me
+- 📧 Email: riznishtahir997@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/riznish-tahir-5a578a352)  
+- 📸 [Instagram](https://www.instagram.com/iamcodegroot)  
+- 📘 [Facebook](https://www.facebook.com/share/1CmsT7Kjxd/)  
+- 🧩 [LeetCode](https://leetcode.com/u/riznish/)  
+- 🧪 [ORCID](https://orcid.org/0009-0002-7412-8499)
