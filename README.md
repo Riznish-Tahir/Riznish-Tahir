@@ -52,3 +52,9 @@ Currently focused on learning by **building real projects and sharing knowledge*
 - 📘 [Facebook](https://www.facebook.com/share/1CmsT7Kjxd/)  
 - 🧩 [LeetCode](https://leetcode.com/u/riznish/)  
 - 🧪 [ORCID](https://orcid.org/0009-0002-7412-8499)
+
+
+![My Design](assets/my-design.gif)
+*Design by Riznish Tahir*
+
+[View Full Design](https://www.canva.com/design/DAHA5qYy63E/ANSJIq6aoXK80VeK-Dx5GQ/view?utm_content=DAHA5qYy63E&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
