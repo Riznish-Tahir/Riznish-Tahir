@@ -76,5 +76,6 @@ _More projects in progress._
 
 
 <p align="center">
-🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢
+˜”*°•.˜”*°• I ᗩᗰ ᑕOᗪE GᖇOOT •°*”˜.•°*”˜
+
 </p>
