@@ -1,4 +1,4 @@
-# Hi, I’m Riznish Tahir
+# Hi, I’m Riznish Tahir 🌱
 
 **AI & Tech Student · Aspiring Full-Stack Developer**  
 Karachi, Pakistan  
@@ -7,7 +7,7 @@ Karachi, Pakistan
 
 > Building clean, functional, and user-focused digital experiences.
 
-## About
+## 🟢 About 🌿
 
 I’m passionate about **AI, web development, and problem-solving**.  
 I enjoy turning ideas into **simple, usable, and scalable products**.
@@ -15,7 +15,7 @@ I enjoy turning ideas into **simple, usable, and scalable products**.
 Currently learning by **building real projects**, experimenting with new tools,  
 and sharing what I learn with other students.
 
-## Tech Stack
+## 🟢 Tech Stack 🌿
 
 **Frontend**
 - HTML, CSS, Tailwind CSS
@@ -30,7 +30,7 @@ and sharing what I learn with other students.
 - AI tools & workflows
 - VS Code, Figma
 
-## Projects
+## 🟢 Projects 🌿
 
 **AI Study Helper**  
 A productivity-focused tool designed to help students learn more efficiently.
@@ -43,7 +43,7 @@ A personal website built using HTML, CSS, and JavaScript.
 
 _More projects in progress._
 
-## Connect
+## 🟢 Connect 🌿
 
 - Email: riznishtahir997@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/riznish-tahir-5a578a352  
@@ -56,7 +56,14 @@ _More projects in progress._
 
 <br>
 
-## Contributions
+<p align="center">
+  🌿🌱🌿🌱🌿
+  <img src="assets/groot.png" alt="Groot" width="150">
+  🌿🌱🌿🌱🌿
+</p>
+
+
+## 🟢 Contributions 🌿
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -68,3 +75,6 @@ _More projects in progress._
 </picture>
 
 
+<p align="center">
+🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢 🟢
+</p>
